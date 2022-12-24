@@ -1,4 +1,4 @@
-# DAC-Peripheral #
+## DAC-Peripheral ##
 A peripheral that acts as a Digital Audio Converter and runs on a Simple Computer (SCOMP). Created as the final project for ECE 2031, Digital Design Labratory.
 SCOMP.qpf is the main project file. 
 
